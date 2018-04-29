@@ -1,0 +1,23 @@
+h1
+{
+	color: blue;
+}
+
+p
+{
+	color: blue;
+}
+
+body
+{
+	background-color: blue;
+}
+
+#corps
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
